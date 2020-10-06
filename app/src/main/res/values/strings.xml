@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="textview">Happy Birthday Juan</string>
 </resources>
