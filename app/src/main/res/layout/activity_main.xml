@@ -8,14 +8,16 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/textview" />
+        android:text="@string/textview"
+        android:textSize="36sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:text="@string/textview2" />
+        android:text="@string/textview2"
+        android:textSize="36sp"/>
 
     <ImageView
         android:layout_width="wrap_content"
