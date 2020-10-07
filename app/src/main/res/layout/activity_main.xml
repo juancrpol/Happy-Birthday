@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:text="@string/textview"
+        android:textColor="@android:color/white"
         android:textSize="36sp" />
 
     <TextView
@@ -19,6 +20,7 @@
         android:layout_alignParentBottom="true"
         android:fontFamily="sans-serif-light"
         android:text="@string/textview2"
+        android:textColor="@android:color/white"
         android:textSize="36sp" />
 
     <ImageView
